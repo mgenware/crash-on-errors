@@ -1,6 +1,6 @@
 {
   "name": "crash-on-errors",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Make Node.js process crash on errors",
   "main": "dist/main.js",
   "types": "dist/main.d.ts",
